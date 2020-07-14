@@ -10,3 +10,8 @@
 ### 200709 TIL
 - 별로 못봄.
 - sentencepiece 공부하다 말았음.
+
+### 200714 TIL
+- BPE/WPM/Unigram LM/SentencePiece 정리
+- 근데 수학을 모르겠음... 하...
+- 크게 중요한 것은 아니니 하나하나 이해하려 들지 말 것.
