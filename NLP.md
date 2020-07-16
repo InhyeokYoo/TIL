@@ -16,6 +16,6 @@
 - 근데 수학을 모르겠음... 하...
 - 크게 중요한 것은 아니니 하나하나 이해하려 들지 말 것.
 
-### 200714 TIL
+### 200716 TIL
 - torchtext colab, github pages 작성 중
     - Field
